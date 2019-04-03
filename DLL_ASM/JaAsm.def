@@ -1,0 +1,3 @@
+LIBRARY JaAsm
+
+EXPORTS zmiana_na_sepie_asm
